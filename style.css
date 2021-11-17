@@ -1,0 +1,72 @@
+/* Del 2 */
+
+body {
+    position: absolute;
+    background-color: rgb(0, 9, 19);
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    position: relative;
+    top: -60px;
+    color: whitesmoke;
+    font-size: 45px;
+    box-shadow: whitesmoke 5px 5px 5px;
+}
+
+
+h3 {
+    position: relative;
+    color: #D0A85D;
+    font-family: monospace;
+    font-style: italic;
+    margin: 10px auto;
+    padding-left: 7.5px;
+    list-style-type: armenian;
+    font-size: 30px;
+}
+    
+/**
+h3:before{
+    content:url(img/before.png);
+    width: 7.5px;
+    height: 15px;
+    position: absolute;
+    left: 0;
+    display: block;
+    background: url(img/before.png) no-repeat;
+    
+}
+**/
+
+
+p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: whitesmoke;
+    font-size: 17px;
+}
+
+nav{
+    position: relative;
+    bottom: 100px;
+}
+
+
+
+
+a {
+    text-decoration: none;
+    color: #3bbfbf;
+}
+
+article {
+    position: relative;
+    top: -70px;
+    width: 75%;
+    border: 0.1px solid lightgray;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px;
+}
+

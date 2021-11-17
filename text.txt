@@ -1,0 +1,3 @@
+Jag visade mina hemsidor till Vincent och Wilmer och dem sa att den första var perfekt men jag borde göra fade på den banner bild. 
+Den andra tyckte dem att jag kunde ändra färger på <p> och kunde göra första listan lite bättre.
+Den sista sa dem att bakgrunds färgen var dålig det matchade inte bilder ossånt och border syndes för mycket dem kunde vara minder än 1px
